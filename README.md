@@ -16,7 +16,6 @@ Example: /home/user/server
 Grant permission to execute the script: sudo +x install_server.sh
 After granting permissions, run it: ./install_server.sh or . install_server.sh
 In the server selection box, enter the selection number, then wait.
-If the installation is stuck, wait. This delay was made for people who have weak Internet, so that the script does not break. The approximate waiting time after freezing is 80 seconds.
 Enjoy the new server
 
 [RU]
@@ -34,7 +33,6 @@ Shell-скрипт для установки сервера Minecraft с раз�
 Выдайте права на выполнение скрипта: sudo +x install_server.sh
 После выдачи прав, запустите его: ./install_server.sh или . install_server.sh
 В пункте выбора сервера впишите цифру выбора, после чего ожидайте.
-Если установка зависла, ожидайте. Такая задержка была сделана для людей у которых слабый интернет, чтоб скрипт не сломался. Примерное время ожидание после зависания 80 секунд.
 Наслаждайтесь новым сервером
 
 
